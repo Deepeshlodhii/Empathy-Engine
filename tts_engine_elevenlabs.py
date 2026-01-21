@@ -1,7 +1,7 @@
 import requests
 import os
 
-API_KEY = "sk_0c9283c4eddc540f1b038d808de962cf06e76360e222aa60"
+API_KEY = "sk_0c9283c4eddc540f1b038d808de96-------aa60"
 
 VOICE_ID = "21m00Tcm4TlvDq8ikWAM"  # Rachel (default high quality voice)
 
@@ -48,3 +48,4 @@ def generate_speech(text, emotion, intensity, filename="output/speech.wav"):
         f.write(response.content)
 
     return filename
+
