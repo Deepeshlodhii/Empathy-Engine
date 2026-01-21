@@ -79,7 +79,7 @@ empathy-engine/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/empathy-engine.git
+git clone (https://github.com/Deepeshlodhii/Empathy-Engine)
 cd empathy-engine
 ````
 
